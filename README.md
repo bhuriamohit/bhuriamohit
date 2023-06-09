@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hello, I'm Mohit Choudhary! 👋
 
-<!--
-**bhuriamohit/bhuriamohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE undergrad at Indian Institute of Technology Ropar  
+💻 Front-End Developer | React.js Enthusiast  
+🏋️ Gym Rat | Fitness Enthusiast  
 
-Here are some ideas to get you started:
+I enjoy the thrill of solving complex problems and the art of turning ideas into reality through code. As a front-end developer, I specialize in building intuitive and visually appealing web applications using React.js. ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Let's create stunning user experiences and bring ideas to life! 🚀
+
+## Skills
+
+💻 Front-End Development: React.js, HTML, CSS  
+📚 Data Structures and Algorithms  
+⚙️ Problem Solving  
+👨‍💻 Git and Version Control  
+
+<!-- ## Projects
+
+🚀 Developed a responsive e-commerce website using React.js, delivering seamless shopping experiences.  
+🌐 Contributed to open-source projects, collaborating with developers worldwide to create impactful solutions.  
+💪 Participated in coding competitions and achieved top rankings in algorithmic challenges. -->
+
+## Connect with Me
+
+📌 LinkedIn: [linkedin.com/in/mohit-choudhary](https://www.linkedin.com/in/mohit-bhuria-746369229)  
+🐦 Twitter: [twitter.com/MohitBhuria2](https://twitter.com/MohitBhuria2)  
+📷 Instagram: [instagram.com/choudhary._.mohit](https://www.instagram.com/choudhary._.mohit)  
+👨‍💼 GitHub: [github.com/bhuriamohit](https://github.com/bhuriamohit)  
+✉️ Email: [bhuriamohit2004@gmail.com](mailto:bhuriamohit2004@gmail.com)  
+💻 Codeforces: [codeforces.com/profile/bhuria_mohit](https://codeforces.com/profile/bhuria_mohit)
+
+Let's collaborate, create amazing projects, and make a positive impact in the world of technology! 💪✨
+
+P.S. When I'm not coding or hitting the gym, you can find me exploring new places and capturing moments through my camera lens. 📸🌍
