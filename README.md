@@ -15,11 +15,11 @@ I enjoy the thrill of solving complex problems and the art of turning ideas into
 ⚙️ Problem Solving  
 👨‍💻 Git and Version Control  
 
-<!-- ## Projects
+ ## Projects
 
 🚀 Developed a responsive e-commerce website using React.js, delivering seamless shopping experiences.  
 🌐 Contributed to open-source projects, collaborating with developers worldwide to create impactful solutions.  
-💪 Participated in coding competitions and achieved top rankings in algorithmic challenges. -->
+💪 Participated in coding competitions and achieved top rankings in algorithmic challenges.
 
 ## Connect with Me
 
