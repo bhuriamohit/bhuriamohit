@@ -28,7 +28,7 @@ I enjoy the thrill of solving complex problems and the art of turning ideas into
 📷 Instagram: [instagram.com/choudhary._.mohit](https://www.instagram.com/choudhary._.mohit)  
 👨‍💼 GitHub: [github.com/bhuriamohit](https://github.com/bhuriamohit)  
 ✉️ Email: [bhuriamohit2004@gmail.com](mailto:bhuriamohit2004@gmail.com)  
-💻 Codeforces: [codeforces.com/profile/bhuria_mohit](https://codeforces.com/profile/_Light)
+💻 Codeforces: [codeforces.com/profile/_Light](https://codeforces.com/profile/_Light)
 
 Let's collaborate, create amazing projects, and make a positive impact in the world of technology! 💪✨
 
